@@ -4,17 +4,16 @@
 
 
 
-Table of Content
+<h4>Table of Content</h4>
 
-Financial & Banking Information  
-Card Management
-Social Media Accounts
-Mobile Phone & Portable Devices
-Smart Home and IOT Devices
-E-commerce and Online Accounts  
-Public Wi-Fi Usage
-Travel and Location Data  
-Computer Safety
+**Financial & Banking Informatio**
+**Social Media Accounts**
+**Mobile Phone & Portable Devices**
+**Smart Home and IOT Devices**
+**E-commerce and Online Accounts**  
+**Public Wi-Fi Usage**
+**Travel and Location Data**  
+**Computer Safety**
    
   
    
