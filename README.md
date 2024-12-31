@@ -1,9 +1,9 @@
 # Cyber-Safty-Hand-Book
-<div align="center">***Simple Cyber Manaul to help stay digitally safe.***</div>
-
-
-
-
+<div align="center">Simple Cyber Manaul to help stay digitally safe!</div>
+<br>
+<br>
+<br>
+<br>
 <h4>Table of Content</h4>
 
 - Financial & Banking Information
