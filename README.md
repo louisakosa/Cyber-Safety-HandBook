@@ -43,7 +43,7 @@ Here are some personal Cyber safety tips to keep you protected while carrying ou
 <br>
 <br>
 
-<h4> Chapter 2 </h4>
+<h4> - Chapter 2 </h4>
 <h5> Card Management </h5>
 <p>
 Below are pointers  to aid in managing your financial cards securely to avoid fraud and to keep you safe:
