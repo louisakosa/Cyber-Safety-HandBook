@@ -1,10 +1,10 @@
-# Cyber-Safty-Hand-Book
+<h1> Cyber-Safty-Hand-Book </h1>
 <div align="center">Simple Cyber Manaul to help stay digitally safe!</div>
 <br>
 <br>
 <br>
 <br>
-<h4>Table of Content</h4>
+<h3>Table of Content</h3>
 
 - Financial & Banking Information
 - Social Media Accounts
@@ -14,61 +14,31 @@
 - Public Wi-Fi Usage
 - Travel and Location Data  
 - Computer Safety
+
+<br>
+<br>
+<br>
+<br>
    
-  
-   
+- <h4> Chapter 1 </h4>
+  <h5> Financial & Banking Information </h5> 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Chapter 1 
-  Financial & Banking Information 
-
-
+<p> 
 Here are some personal Cyber safety tips to keep you protected while carrying out online banking activities and transactions.
 
-Always use an extra layer of security on your online bank accounts and transactions where available, example would be  implementing extra verification steps like Verification codes, biometric authentication or using tokens for  logging in to your accounts and  while conducting all online transactions.
-Use Unique Password for each Account:  Avoiding repeating the same password across multiple accounts.
-Use Only Secure and trusted Internet Connections: When checking your financial records, please  avoid using public Wi-Fi (like at cafes or airports), it isn’t secure. But if you must use public WI–FI , use a Virtual Private Network (VPN) app to add an extra layer of security to your internet connection.
-Be Careful of Suspicious Emails and SMS Messages: Don’t click on emails or text messages with links from your bank asking you to update your records online or asking for sensitive personal financial details, even if it looks official, It’s safer to log in directly through the bank’s app or website instead.
-Limit Access to Your Accounts: Don’t give access to your accounts, instead ask your bank for a utility card, you can transfer your desired amount to that and give to whomever also check account permissions ever so often to make sure you’re still comfortable with who has permissions to  view your data.
-Check Your Accounts Regularly: Keep an eye on your bank and credit card accounts for any unexpected charges. Many banks let you set up notifications for each transaction so you’ll know right away if something seems off. 
-Keep Devices Updated and Use Antivirus Protection: Update your devices when prompted and install antivirus software to protect against viruses and other malware. This helps block harmful apps and files that can steal information.
-Back Up Important Financial Information: Save copies of your important documents and information in a secure, cloud-based storage or an external hard drive. This way, you can recover everything if something happens to your device. 
-Watch Out for Suspicious Apps: Only use apps from trusted sources. Avoid sharing apps using apps like Xender, it might already be corrupted from the senders device. Also be careful about linking your bank account or financial information with any app. Regularly review app permissions and remove any you no longer use. 
-Stay Alert for Unusual Activity: Some banks offer tools that flag unusual spending. Consider setting up these alerts so you’re quickly informed if something strange is happening with your account. 
+- Always use an extra layer of security on your online bank accounts and transactions where available, example would be  implementing extra verification steps like Verification codes, biometric authentication or using tokens for  logging in to your accounts and  while conducting all online transactions.
+- Use Unique Password for each Account:  Avoiding repeating the same password across multiple accounts.
+- Use Only Secure and trusted Internet Connections: When checking your financial records, please  avoid using public Wi-Fi (like at cafes or airports), it isn’t secure. But if you must use public WI–FI , use a Virtual Private Network (VPN) app to add an extra layer of security to your internet connection.
+- Be Careful of Suspicious Emails and SMS Messages: Don’t click on emails or text messages with links from your bank asking you to update your records online or asking for sensitive personal financial details, even if it looks official, It’s safer to log in directly through the bank’s app or website instead.
+- Limit Access to Your Accounts: Don’t give access to your accounts, instead ask your bank for a utility card, you can transfer your desired amount to that and give to whomever also check account permissions ever so often to make sure you’re still comfortable with who has permissions to  view your data.
+- Check Your Accounts Regularly: Keep an eye on your bank and credit card accounts for any unexpected charges. Many banks let you set up notifications for each transaction so you’ll know right away if something seems off. 
+- Keep Devices Updated and Use Antivirus Protection: Update your devices when prompted and install antivirus software to protect against viruses and other malware. This helps block harmful apps and files that can steal information.
+- Back Up Important Financial Information: Save copies of your important documents and information in a secure, cloud-based storage or an external hard drive. This way, you can recover everything if something happens to your device. 
+- Watch Out for Suspicious Apps: Only use apps from trusted sources. Avoid sharing apps using apps like Xender, it might already be corrupted from the senders device. Also be careful about linking your bank account or financial information with any app. Regularly review app permissions and remove any you no longer use. 
+- Stay Alert for Unusual Activity: Some banks offer tools that flag unusual spending. Consider setting up these alerts so you’re quickly informed if something strange is happening with your account. 
 
+</p>
 
 
 
