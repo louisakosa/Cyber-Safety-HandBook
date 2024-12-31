@@ -22,8 +22,6 @@
    
 - <h4> Chapter 1 </h4>
   <h5> Financial & Banking Information </h5> 
-
-
 <p> 
 Here are some personal Cyber safety tips to keep you protected while carrying out online banking activities and transactions.
 
@@ -40,31 +38,27 @@ Here are some personal Cyber safety tips to keep you protected while carrying ou
 
 </p>
 
+<br>
+<br>
+<br>
+<br>
 
-
-
-
-
-
-
-
-Chapter 2 
-Card Management
-
-
+<h4> Chapter 2 </h4>
+<h5> Card Management </h5>
+<p>
 Below are pointers  to aid in managing your financial cards securely to avoid fraud and to keep you safe:
 
-Use Card Locking Features: Some banks offer a “lock” feature in their apps that lets you freeze your card temporarily if you misplace it. This prevents charges until you find it or till you can request a replacement.
-Set Up Real-Time Alerts: Sign up for alerts that notify you of every purchase made on your card. These notifications help you spot any suspicious or unauthorized transactions quickly.
-Only Save Your Card details with Trusted Sites: Be careful about saving your card information online, especially on sites you don’t know well. Only save card details with reputable companies or better still get a dedicated virtual card for this purpose or  use secure payment options like PayPal whenever possible. 
-Review Your Monthly Statements Regularly: Go over your statements each month to check for unfamiliar charges. Report anything suspicious to your bank right away to reduce the risk of additional fraud. 
-Limit Your Card’s Spending and Withdrawal Limits: Many cards allow you to set daily spending or withdrawal limits, which can prevent large amounts of money from being taken if your card is compromised. 
-Be Careful of Card Scammers: If someone calls or emails asking for your card information, avoid sharing it, even if they claim to be from your bank. Instead, contact your bank directly to verify any requests.
-Use Contactless Payments and Digital Wallets: Paying with a digital wallet (like Apple Pay or Google Pay) adds security to card purchases by keeping your card details hidden from the retailer, which reduces the risk of fraud.  Also get card  holders or wallets that protect your contactless cards. 
-Don’t Share Your PIN: Keep your PIN confidential and avoid writing it down. When entering your PIN at a machine, cover the keypad to prevent others from seeing it. 
-Use Secure ATMs: Use ATMs in well-lit, secure locations like bank branches, as these are less likely to have skimming devices that can steal your card info. Minimize using ATMs at night in areas without physical security personnel around. 
-Report Lost or Stolen Cards Immediately: If you lose your card, report it to your bank right away to block the card from being used. Most banks will make arrangements for speedy replacements.
-
+- Use Card Locking Features: Some banks offer a “lock” feature in their apps that lets you freeze your card temporarily if you misplace it. This prevents charges until you find it or till you can request a replacement.
+- Set Up Real-Time Alerts: Sign up for alerts that notify you of every purchase made on your card. These notifications help you spot any suspicious or unauthorized transactions quickly.
+- Only Save Your Card details with Trusted Sites: Be careful about saving your card information online, especially on sites you don’t know well. Only save card details with reputable companies or better still get a dedicated virtual card for this purpose or  use secure payment options like PayPal whenever possible. 
+- Review Your Monthly Statements Regularly: Go over your statements each month to check for unfamiliar charges. Report anything suspicious to your bank right away to reduce the risk of additional fraud. 
+- Limit Your Card’s Spending and Withdrawal Limits: Many cards allow you to set daily spending or withdrawal limits, which can prevent large amounts of money from being taken if your card is compromised. 
+- Be Careful of Card Scammers: If someone calls or emails asking for your card information, avoid sharing it, even if they claim to be from your bank. Instead, contact your bank directly to verify any requests.
+- Use Contactless Payments and Digital Wallets: Paying with a digital wallet (like Apple Pay or Google Pay) adds security to card purchases by keeping your card details hidden from the retailer, - which reduces the risk of fraud.  Also get card  holders or wallets that protect your contactless cards. 
+- Don’t Share Your PIN: Keep your PIN confidential and avoid writing it down. When entering your PIN at a machine, cover the keypad to prevent others from seeing it. 
+- Use Secure ATMs: Use ATMs in well-lit, secure locations like bank branches, as these are less likely to have skimming devices that can steal your card info. Minimize using ATMs at night in areas without physical security personnel around. 
+- Report Lost or Stolen Cards Immediately: If you lose your card, report it to your bank right away to block the card from being used. Most banks will make arrangements for speedy replacements.
+</p>
 
 
 
