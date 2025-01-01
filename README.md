@@ -44,7 +44,7 @@ Here are some personal Cyber safety tips to keep you protected while carrying ou
 <br>
 
 - <h3>  Chapter 2 </h3>
-<h4> Card Management </h4>
+  <h4> Card Management </h4>
 <p>
 Below are pointers  to aid in managing your financial cards securely to avoid fraud and to keep you safe
 
@@ -66,7 +66,7 @@ Below are pointers  to aid in managing your financial cards securely to avoid fr
 <br>
 
 - <h3> Chapter 3 </h3>  
-<h4> Social Media Accounts Management </h4>
+  <h4> Social Media Accounts Management </h4>
 <p>
 The increase in social media adoption has  changed the dynamic for online interaction and has become an indispensable tool for social and corporate interaction. However it has the potential to become a very dangerous tool at the hand of threat actors. Here are some practical tips for staying safe on social media:
 
@@ -98,7 +98,7 @@ The increase in social media adoption has  changed the dynamic for online intera
 <br>
 
 - <h3> Chapter 4 </h3>
-<h4> Mobile Phones and Portable Devices </h4>
+  <h4> Mobile Phones and Portable Devices </h4>
 
 <p>
 These are safety tips to help ensure online and data security while using mobile devices such as Mobile Phone, Tablets etc. 
@@ -124,7 +124,7 @@ Download Apps Only from Trusted Sources: Stick to official app stores like the G
 <br>
 
 - <h3> Chapter 5 </h3>  
-<h4> Smart Home and IOT Devices </h4>
+  <h4> Smart Home and IOT Devices </h4>
 <p>
 Safety tip to get the best out of Smart Home and IoT Devices, while staying safe secure.
    
@@ -145,7 +145,7 @@ Safety tip to get the best out of Smart Home and IoT Devices, while staying safe
 <br>
 
 - <h3> Chapter 6 </h3>
-<h4> E-commerce and Online Accounts </h4>
+  <h4> E-commerce and Online Accounts </h4>
 <p>
 Easy-to-follow steps to minimize  Cyber Threats while shopping and carrying out online transactions.
    
@@ -171,7 +171,7 @@ Easy-to-follow steps to minimize  Cyber Threats while shopping and carrying out 
 <br>
 
 - <h3> Chapter 7 </h3>
-<h4> Public Wi-Fi Usage </h4>
+  <h4> Public Wi-Fi Usage </h4>
 <p>
 We might not always have the luxury of working from the convinience of our homes or offices, knowing how to stay safe while using public WiFi is a must. 
    
@@ -192,9 +192,9 @@ We might not always have the luxury of working from the convinience of our homes
 <br>
 <br>
 <br>
-
+ 
 - <h3> Chapter 8 </h3>
-<h4> Travel and Location Data </h4>
+  <h4> Travel and Location Data </h4>
 
 Properly manage your travel and location data for effective protection of privacy.
 
@@ -215,7 +215,7 @@ Properly manage your travel and location data for effective protection of privac
 <br>
 
 - <h3> Chapter 9 </h3>  
-<h4> Computer Safety </h4>
+  <h4> Computer Safety </h4>
 Personal Security and safety tips for securing PC and information safety.
 
 - Use a Unique Strong Password: Ensure that each of your accounts has a unique and complex password. Passwords should be Unique across all accounts, long (at least 12 characters) and use a combination of letters, numbers, and special characters. Avoid Using common words or easily guessed details, like birthdays. Even most preferably use a password manager to securely generate and store complex passwords, so you don’t have to remember the password to all accounts.
