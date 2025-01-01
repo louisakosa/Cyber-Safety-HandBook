@@ -194,7 +194,7 @@ We might not always have the luxury of working from the convinience of our homes
 <br>
 
 - <h4> Chapter 8 </h4>
-<h5> Travel and Location Data <h5>
+<h5> Travel and Location Data </h5>
 
 Properly manage your travel and location data for effective protection of privacy.
 
