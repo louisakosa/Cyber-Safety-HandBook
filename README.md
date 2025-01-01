@@ -183,8 +183,8 @@ We might not always have the luxury of working from the convinience of our homes
 - Keep Your Device’s Firewall On: Firewalls act as a barrier between your device and potential threats. Ensure your device’s firewall is enabled, which can help block unauthorized access while on public networks.
 - Disable File Sharing and Airdrop: When using public Wi-Fi, disable features like file sharing, Bluetooth, and Airdrop on your device. Hackers  can gain access to your devices through these apps and services, especially on shared networks.
 - Log Out After Use: If you log into any accounts on a public computer, make sure to log out completely before you leave. Also, clear the browser history to remove any saved login credentials or personal information.
--Be Aware of Fake Networks: Hackers sometimes set up fake Wi-Fi networks with names similar to legitimate ones, like “Airport Free Wi-Fi.” Verify network names with staff before connecting to avoid accidentally joining a malicious network. 
--Use Two-Factor Authentication (2FA) Where Possible: Enabling 2FA on your accounts adds an extra layer of security, requiring a second verification step if someone tries to access your account on a public network. 
+- Be Aware of Fake Networks: Hackers sometimes set up fake Wi-Fi networks with names similar to legitimate ones, like “Airport Free Wi-Fi.” Verify network names with staff before connecting to avoid accidentally joining a malicious network. 
+- Use Two-Factor Authentication (2FA) Where Possible: Enabling 2FA on your accounts adds an extra layer of security, requiring a second verification step if someone tries to access your account on a public network. 
 - Limit Browsing to Basic Tasks: Stick to non-sensitive browsing activities when on public Wi-Fi. Avoid tasks that require personal, financial, or login information to minimize the risk if your data is intercepted. 
 </p>
 
