@@ -46,7 +46,7 @@ Here are some personal Cyber safety tips to keep you protected while carrying ou
 - <h4>  Chapter 2 </h4>
 <h5> Card Management </h5>
 <p>
-Below are pointers  to aid in managing your financial cards securely to avoid fraud and to keep you safe:
+Below are pointers  to aid in managing your financial cards securely to avoid fraud and to keep you safe
 
 - Use Card Locking Features: Some banks offer a “lock” feature in their apps that lets you freeze your card temporarily if you misplace it. This prevents charges until you find it or till you can request a replacement.
 - Set Up Real-Time Alerts: Sign up for alerts that notify you of every purchase made on your card. These notifications help you spot any suspicious or unauthorized transactions quickly.
@@ -102,6 +102,7 @@ The increase in social media adoption has  changed the dynamic for online intera
 
 <p>
 These are safety tips to help ensure online and data security while using mobile devices such as Mobile Phone, Tablets etc. 
+   
 - Set Up Strong Lock Screen Security: Use a strong PIN, password, or biometric options like fingerprint or face recognition to secure your device. Avoid easy-to-guess combinations like "1234" or birthdays.
 - Enable Device Tracking: Most devices offer “Find My Device” features (e.g., Find My iPhone or Find My Device for Android). There are also third party apps that offer tracking, enabling this can help you locate, lock, or erase your device if it’s lost or stolen. 
 - Keep Software Up to Date: Regularly update your device’s operating system and apps. Updates often include security patches that fix vulnerabilities hackers might exploit. 
@@ -126,6 +127,7 @@ Download Apps Only from Trusted Sources: Stick to official app stores like the G
 <h5> Smart Home and IOT Devices </h5>
 <p>
 Safety tip to get the best out of Smart Home and IoT Devices, while staying safe secure.
+   
 - Create Strong, Unique Passwords:  Always replace default passwords with strong, unique passwords for each smart device, especially for the main hub (like Alexa, Google Home, or SmartThings) that connects everything. Avoid reusing passwords from other accounts and on the devices to reduce risks.
 - Use Two-Factor Authentication (2FA) When Possible:  Many smart home systems and apps offer two-factor authentication, requiring a second code to log in. Enabling 2FA makes it harder for unauthorized people to control your devices. 
 - Regularly Update Your Devices: Just like smartphones, IoT devices receive updates that improve security. Check for updates regularly through the device’s app or settings, as manufacturers release fixes for any security vulnerabilities. 
@@ -146,6 +148,7 @@ Safety tip to get the best out of Smart Home and IoT Devices, while staying safe
 <h5> E-commerce and Online Accounts </h5>
 <p>
 Easy-to-follow steps to minimize  Cyber Threats while shopping and carrying out online transactions.
+   
 - Use Strong, Unique Passwords: Each shopping site or portal should have a unique and strong password to prevent hackers from accessing multiple accounts if one password or same username is compromised. 
 - Enable Two-Factor Authentication: some shopping platforms offer 2FA, an extra code sent to your phone or email. Providing an added  security layer making it much harder for unauthorized users to gain access to your account, even if your  password has been compromised.
 - Save Payment Details Only When Necessary: Avoid storing your credit card or bank information on shopping sites, get dedicated virtual or utility cards.
@@ -170,7 +173,8 @@ Easy-to-follow steps to minimize  Cyber Threats while shopping and carrying out 
 - <h4> Chapter 7 </h4>
 <h5> Public Wi-Fi Usage </h5>
 <p>
-We might not always have the luxury of working from the convinience of our homes or offices, knowing how to stay safe while using public WiFi is a must.  
+We might not always have the luxury of working from the convinience of our homes or offices, knowing how to stay safe while using public WiFi is a must. 
+   
 - Avoid Accessing Sensitive Information:  When connected to public Wi-Fi, avoid logging in to sensitive sites or  into accounts with sensitive information. Banking, insurance accessing your  health records etc. Public networks are usually not secure, making it easier for others to intercept your data. 
 - Use a Virtual Private Network: A VPN encrypts your internet connection, this provides an added layer of security by making it difficult for others on the network to see your activities. 
 - Turn Off Automatic Connections: Many devices are set to automatically connect when they are near to a Wi-Fi network they had previously connected to. Turn off this feature in your device settings to prevent accidental connections to insecure networks
@@ -193,6 +197,7 @@ We might not always have the luxury of working from the convinience of our homes
 <h5> Travel and Location Data <h5>
 
 Properly manage your travel and location data for effective protection of privacy.
+
 - Limit Your Location Sharing on Social Media: Don’t post on social media the travel plans in real time, you can share reels and pictures when you back from your trip, this reduces the chances of someone tracking your current location.
 - Turn Off Location Services on Your Apps and  Devices: Many apps track location data in the background. Review which apps need location access and turn it off for apps that don’t. On most devices, you can set location permissions to “Only While Using the App” to keep data private. 
 - Use a Virtual Private Network (VPN) While Traveling: A VPN can help mask your IP address, making it harder for websites and third parties to track your location while you browse. This is especially helpful when using public Wi-Fi while traveling. 
@@ -212,6 +217,7 @@ Properly manage your travel and location data for effective protection of privac
 - <h4> Chapter 9 </h4>  
 <h5> Computer Safety </h5>
 Personal Security and safety tips for securing PC and information safety.
+
 - Use a Unique Strong Password: Ensure that each of your accounts has a unique and complex password. Passwords should be Unique across all accounts, long (at least 12 characters) and use a combination of letters, numbers, and special characters. Avoid Using common words or easily guessed details, like birthdays. Even most preferably use a password manager to securely generate and store complex passwords, so you don’t have to remember the password to all accounts.
 - Enable Two-Factor Authentication (2FA): Activate 2FA on all accounts that support it. With 2FA, even if someone gets your password, they would also need access to the second form of verification (like a Token Device) to log in. 
 - Keep Operating System and Software Updated: Regularly updating your OS and all other applications to ensure that any security flaw or vulnerabilities are patched. Most updates include security enhancements designed to protect against the latest threats. 
