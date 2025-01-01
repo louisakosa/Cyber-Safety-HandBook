@@ -43,7 +43,7 @@ Here are some personal Cyber safety tips to keep you protected while carrying ou
 <br>
 <br>
 
-<h4> - Chapter 2 </h4>
+- <h4>  Chapter 2 </h4>
 <h5> Card Management </h5>
 <p>
 Below are pointers  to aid in managing your financial cards securely to avoid fraud and to keep you safe:
@@ -63,123 +63,114 @@ Below are pointers  to aid in managing your financial cards securely to avoid fr
 
 
 
-Chapter 3  
-Social Media Accounts Management
-
+- <h4> Chapter 3 </h4>  
+<h5> Social Media Accounts Management </h5>
+<p>
 The increase in social media adoption has  changed the dynamic for online interaction and has become an indispensable tool for social and corporate interaction. However it has the potential to become a very dangerous tool at the hand of threat actors. Here are some practical tips for staying safe on social media:
 
-Adjust Your Privacy Settings: Review your account privacy settings to limit who can see your posts and personal information. Restrict your profile to “friends only” or a similar option to keep it private from strangers. 
-Be Cautious About What You Share : Avoid sharing personal details like your phone number, address, or location. This reduces the chances of someone misusing your information or tracking your activities. 
-Use Strong, Unique Passwords: Choose a complex password for each social media account, and avoid reusing the same across platforms. 
-Enable Two-Factor Authentication (2FA): Two-factor authentication adds an extra layer of security by requiring a second form of verification (like a text message code) in addition to your password. I would say this is a must for anyone that is serious about online safety. 
-Watch out for Phishing Messages: Be wary of any direct messages (DMs) or links from unknown sources. Scammers often impersonate friends or brands to get personal information from unsuspecting individuals. when in doubt, reach out to the friend or company directly to verify. 
-Limit Third-Party App Access: Only allow trusted apps to connect to your social media accounts. Periodically review and remove any third-party apps that no longer need access.
-Be Careful with Location Tags: Avoid tagging your exact location on posts, especially when you’re still at that location. Sharing your real-time location can make it easier for others to track your movements. 
-Use the “Friends” List to Control Who Sees Your Posts: Most platforms allow you to organize friends into lists. This feature can help you control which groups can see specific posts, allowing more selective sharing. 
-Avoid Clicking on Ads or Pop-Ups: Social media platforms often include ads and pop-ups, some of which may be scams. Stick to trusted sources and avoid clicking on ads from unknown companies or “too good to be true” offers. 
-Regularly Review Your Posts and Tagged Photos: Go through your old posts and tags occasionally, removing anything that reveals too much personal information or doesn’t fit your current privacy standards.
-Be Mindful of Friend Requests: Only accept requests from people you know personally. Scammers and fake accounts often try to connect with users to gather personal details or spread malicious links. 
-Avoid Sharing Financial Information: Never share bank details, credit card information, or any financial transactions on social media, even in direct messages. Scammers can misuse even the smallest financial information.
-Limit Sharing of Travel Plans: Refrain from posting your travel dates or destination  location while on vacation. This helps protect your home security while you’re away and reduces the chance of others tracking your whereabouts. 
-Check for Suspicious Account Activity: Regularly look for any strange posts, messages, or login locations. Social platforms often provide a “login history” feature where you can view recent activity and log out of unrecognized devices.
-Think Twice Before Clicking on Trendy Challenges or Quizzes: Many social media quizzes ask for personal details like your birthday, pet’s name, or other information often used for security questions. Avoid sharing this type of information publicly.
-Be Cautious of “Like and Share” Scams: Some viral posts claim you’ll win a prize if you like, share, or comment, but these are often scams that collect your information or boost fraudulent accounts. Stick to giveaways hosted by reputable companies on verified accounts.
-Avoid Oversharing in Stories: Temporary stories can still reveal a lot about your routines or locations. Keep your stories vague and avoid sharing personal schedules or where you’re going next.
-Disable Location Services for Social Apps: Many social apps request access to your location. For privacy, turn off location access for apps unless absolutely necessary, which can prevent unintended location sharing.
-Regularly Delete Old Accounts: Old accounts on platforms you no longer use might still contain personal information or photos and deleting these accounts reduces your overall online footprint and limits exposure. 
-Use a Secure Email Address for Social Accounts: Use an email address for social media that you don’t use for other personal or financial purposes. This adds a layer of separation and makes it easier to detect unusual login attempts or suspicious emails related to social media.
+- Adjust Your Privacy Settings: Review your account privacy settings to limit who can see your posts and personal information. Restrict your profile to “friends only” or a similar option to keep it private from strangers. 
+- Be Cautious About What You Share : Avoid sharing personal details like your phone number, address, or location. This reduces the chances of someone misusing your information or tracking your activities. 
+- Use Strong, Unique Passwords: Choose a complex password for each social media account, and avoid reusing the same across platforms. 
+- Enable Two-Factor Authentication (2FA): Two-factor authentication adds an extra layer of security by requiring a second form of verification (like a text message code) in addition to your password. I would say this is a must for anyone that is serious about online safety. 
+- Watch out for Phishing Messages: Be wary of any direct messages (DMs) or links from unknown sources. Scammers often impersonate friends or brands to get personal information from unsuspecting individuals. when in doubt, reach out to the friend or company directly to verify. 
+- Limit Third-Party App Access: Only allow trusted apps to connect to your social media accounts. Periodically review and remove any third-party apps that no longer need access.
+- Be Careful with Location Tags: Avoid tagging your exact location on posts, especially when you’re still at that location. Sharing your real-time location can make it easier for others to track your movements. 
+- Use the “Friends” List to Control Who Sees Your Posts: Most platforms allow you to organize friends into lists. This feature can help you control which groups can see specific posts, allowing more selective sharing. 
+- Avoid Clicking on Ads or Pop-Ups: Social media platforms often include ads and pop-ups, some of which may be scams. Stick to trusted sources and avoid clicking on ads from unknown companies or “too good to be true” offers. 
+- Regularly Review Your Posts and Tagged Photos: Go through your old posts and tags occasionally, removing anything that reveals too much personal information or doesn’t fit your current privacy standards.
+- Be Mindful of Friend Requests: Only accept requests from people you know personally. Scammers and fake accounts often try to connect with users to gather personal details or spread malicious links. 
+- Avoid Sharing Financial Information: Never share bank details, credit card information, or any financial transactions on social media, even in direct messages. Scammers can misuse even the smallest financial information.
+- Limit Sharing of Travel Plans: Refrain from posting your travel dates or destination  location while on vacation. This helps protect your home security while you’re away and reduces the chance of others tracking your whereabouts. 
+- Check for Suspicious Account Activity: Regularly look for any strange posts, messages, or login locations. Social platforms often provide a “login history” feature where you can view recent activity and log out of unrecognized devices.
+- Think Twice Before Clicking on Trendy Challenges or Quizzes: Many social media quizzes ask for personal details like your birthday, pet’s name, or other information often used for security questions. Avoid sharing this type of information publicly.
+- Be Cautious of “Like and Share” Scams: Some viral posts claim you’ll win a prize if you like, share, or comment, but these are often scams that collect your information or boost fraudulent accounts. Stick to giveaways hosted by reputable companies on verified accounts.
+- Avoid Oversharing in Stories: Temporary stories can still reveal a lot about your routines or locations. Keep your stories vague and avoid sharing personal schedules or where you’re going next.
+- Disable Location Services for Social Apps: Many social apps request access to your location. For privacy, turn off location access for apps unless absolutely necessary, which can prevent unintended location sharing.
+- Regularly Delete Old Accounts: Old accounts on platforms you no longer use might still contain personal information or photos and deleting these accounts reduces your overall online footprint and limits exposure. 
+- Use a Secure Email Address for Social Accounts: Use an email address for social media that you don’t use for other personal or financial purposes. This adds a layer of separation and makes it easier to detect unusual login attempts or suspicious emails related to social media.
+</p>
 
 
 
-
-Chapter 4 
-Mobile Phones and Portable Devices
-
-More safety and security tip for  mobiles phones, tablets, and other portable devices: 
-Set Up Strong Lock Screen Security: Use a strong PIN, password, or biometric options like fingerprint or face recognition to secure your device. Avoid easy-to-guess combinations like "1234" or birthdays.
-Enable Device Tracking: Most devices offer “Find My Device” features (e.g., Find My iPhone or Find My Device for Android). There are also third party apps that offer tracking, enabling this can help you locate, lock, or erase your device if it’s lost or stolen. 
-Keep Software Up to Date: Regularly update your device’s operating system and apps. Updates often include security patches that fix vulnerabilities hackers might exploit. 
+- <h4> Chapter 4 </h4>
+<h5> Mobile Phones and Portable Devices </h5>
+<p>
+These are safety tips to help ensure online and data security while using mobile devices such as Mobile Phone, Tablets etc. 
+- Set Up Strong Lock Screen Security: Use a strong PIN, password, or biometric options like fingerprint or face recognition to secure your device. Avoid easy-to-guess combinations like "1234" or birthdays.
+- Enable Device Tracking: Most devices offer “Find My Device” features (e.g., Find My iPhone or Find My Device for Android). There are also third party apps that offer tracking, enabling this can help you locate, lock, or erase your device if it’s lost or stolen. 
+- Keep Software Up to Date: Regularly update your device’s operating system and apps. Updates often include security patches that fix vulnerabilities hackers might exploit. 
 Download Apps Only from Trusted Sources: Stick to official app stores like the Google Play Store or Apple App Store, and avoid third-party sites. Apps from unknown sources may contain malware or spyware. 
-Use App Permissions Wisely: Review the permissions apps ask for, especially sensitive permissions like location, contacts, or camera access. Only grant permissions that are necessary for the app to function. 
-Turn Off Bluetooth and Wi-Fi When Not in Use: Disable Bluetooth and Wi-Fi when you’re not using them, especially in public places. This reduces the risk of attackers accessing your device through open connections. 
-Back Up Your Data Regularly: Regularly backup your device to a secure cloud service or computer. This ensures that you can restore your data if your device is lost, stolen, or compromised. 
-Be Cautious of Public Wi-Fi: Avoid accessing sensitive information, like bank accounts, over public Wi-Fi networks. If needed, use a Virtual Private Network (VPN) to add a layer of encryption to your connection. 
-Regularly Check Battery and Data Usage: Unusual spikes in battery or data usage can indicate hidden apps or malware running in the background. Review your app list and permissions if you notice these signs. 
-Use Antivirus Software for Mobile: Install a reputable antivirus app to protect your device from malware, phishing, and other security threats. Many antivirus programs also offer secure browsing and app scanning. 
-Disable Auto-Connect for Networks: Turn off “Auto-Connect” to prevent your device from automatically joining public Wi-Fi networks, which can be risky.
+- Use App Permissions Wisely: Review the permissions apps ask for, especially sensitive permissions like location, contacts, or camera access. Only grant permissions that are necessary for the app to function. 
+- Turn Off Bluetooth and Wi-Fi When Not in Use: Disable Bluetooth and Wi-Fi when you’re not using them, especially in public places. This reduces the risk of attackers accessing your device through open connections. 
+- Back Up Your Data Regularly: Regularly backup your device to a secure cloud service or computer. This ensures that you can restore your data if your device is lost, stolen, or compromised. 
+- Be Cautious of Public Wi-Fi: Avoid accessing sensitive information, like bank accounts, over public Wi-Fi networks. If needed, use a Virtual Private Network (VPN) to add a layer of encryption to your connection. 
+- Regularly Check Battery and Data Usage: Unusual spikes in battery or data usage can indicate hidden apps or malware running in the background. Review your app list and permissions if you notice these signs. 
+- Use Antivirus Software for Mobile: Install a reputable antivirus app to protect your device from malware, phishing, and other security threats. Many antivirus programs also offer secure browsing and app scanning. 
+- Disable Auto-Connect for Networks: Turn off “Auto-Connect” to prevent your device from automatically joining public Wi-Fi networks, which can be risky.
 Log Out of Sensitive Apps When Done: For apps like banking, log out after each session. This reduces the risk of unauthorized access if someone else gets hold of your device. 
-Delete Unused Apps: Remove apps you no longer use, as they may have security vulnerabilities or permissions you’ve forgotten about.
+- Delete Unused Apps: Remove apps you no longer use, as they may have security vulnerabilities or permissions you’ve forgotten about.
+</p>
 
 
 
 
 
-
-Chapter 5  
-Smart Home and IOT Devices
-
-Here’s a guide to help you keep your smart home and IoT devices secure:
-Create Strong, Unique Passwords:  Always replace default passwords with strong, unique passwords for each smart device, especially for the main hub (like Alexa, Google Home, or SmartThings) that connects everything. Avoid reusing passwords from other accounts and on the devices to reduce risks.
-Use Two-Factor Authentication (2FA) When Possible:  Many smart home systems and apps offer two-factor authentication, requiring a second code to log in. Enabling 2FA makes it harder for unauthorized people to control your devices. 
-Regularly Update Your Devices: Just like smartphones, IoT devices receive updates that improve security. Check for updates regularly through the device’s app or settings, as manufacturers release fixes for any security vulnerabilities. 
-Secure Your Home Wi-Fi Network: Use a strong password for your Wi-Fi (for SSID & device) and update it periodically. If possible, create a separate network for IoT devices, which keeps them isolated from your main network with sensitive information like computers or phones. 
-Disable Unnecessary Features: Turn off any device features you don’t need, such as remote access or Bluetooth pairing when you’re not using them. This limits the number of ways someone can potentially access your devices. 
-Be Cautious with Device Permissions: Some IoT devices request access to features they don’t necessarily need (like your location or microphone). Only grant permissions that are essential to the device’s operation, and regularly review these permissions. 
-Monitor Device Activity Logs: Many smart home apps allow you to view logs of activity and new devices connected. Check these regularly to make sure only trusted devices and users are accessing your system. 
-Use a Firewall for Extra Protection: Setting up a Firewalls would add an additional layer of security by monitoring the network traffic. Some routers come with built-in firewalls, or you can enable these features in your router’s settings for added protection.
-Exercise some level of caution with Smart Assistants: Voice-activated assistants (like Alexa or Google Assistant) can respond to commands even when you don’t mean them to. Consider turning off voice purchases or placing them in less private areas of your home to avoid unintended actions.
-
-
-
-
-
-Chapter 6 
-E-commerce and Online Accounts
-
-
-Here are some easy-to-follow steps to minimize  Cyber Threats while shopping online and performing E-Commerce activities:
-
-Use Strong, Unique Passwords: Each shopping site or portal should have a unique and strong password to prevent hackers from accessing multiple accounts if one password or same username is compromised. 
-Enable Two-Factor Authentication: some shopping platforms offer 2FA, an extra code sent to your phone or email. Providing an added  security layer making it much harder for unauthorized users to gain access to your account, even if your  password has been compromised.
-Save Payment Details Only When Necessary: Avoid storing your credit card or bank information on shopping sites, get dedicated virtual or utility cards.
-Monitor Your Statements Regularly: Conduct regular checks on your bank and credit card statements to catch unauthorized charges early. Banks and payment services also offer notifications for each transaction, which can help you monitor and track your spending in real time.  
-Use Trusted Payment Options: Use secure payment services like PayPal, Apple Pay, or Google Pay, etc. Which keeps  payment details hidden from the merchant. If possible, avoid direct bank transfers or less secure payment methods.
-Phishing Scams: Be cautious about emails or  sms claiming to be from shopping platforms asking for personal details or payment information. Phishing scams often look legitimate and one way to verify is by going directly to the website rather than clicking on verified links in emails. 
-“HTTPS” in URLs:  Before entering sensitive information online, ensure that the website URL starts with “https” and not “http.” The “s” is simply indicating that the site is secure and encrypts the data that is sent between you and the website. 
-Use a Virtual or Utility card: Optionally use a dedicated virtual or utility card for all online transactions. You can limit the amount per-loaded  for spending to just what is needed. 
-Limit system used for shopping: Don’t use a public shared system (cafe,  library etc) for online transactions but id you must always: 
-Log out from your shopping accounts when done This helps prevent others from accessing your account.
-Never set the system to remember your password.
-Delete cookie and history. 
-Monitor your Account Activity and Notifications:  Set up  alerts for all accounts if available and review account activity periodically to catch any unusual transactions.
-Physical  Security: Make sure your phone is physically secure at all times,most security measures can be by-passed given enough time and sensitive data retrieved even if they have been previously deleted.
+- <h4> Chapter 5 </h4>  
+<h5> Smart Home and IOT Devices </h5>
+<p>
+Safety tip to get the best out of Smart Home and IoT Devices, while staying safe secure.
+- Create Strong, Unique Passwords:  Always replace default passwords with strong, unique passwords for each smart device, especially for the main hub (like Alexa, Google Home, or SmartThings) that connects everything. Avoid reusing passwords from other accounts and on the devices to reduce risks.
+- Use Two-Factor Authentication (2FA) When Possible:  Many smart home systems and apps offer two-factor authentication, requiring a second code to log in. Enabling 2FA makes it harder for unauthorized people to control your devices. 
+- Regularly Update Your Devices: Just like smartphones, IoT devices receive updates that improve security. Check for updates regularly through the device’s app or settings, as manufacturers release fixes for any security vulnerabilities. 
+- Secure Your Home Wi-Fi Network: Use a strong password for your Wi-Fi (for SSID & device) and update it periodically. If possible, create a separate network for IoT devices, which keeps them isolated from your main network with sensitive information like computers or phones. 
+- Disable Unnecessary Features: Turn off any device features you don’t need, such as remote access or Bluetooth pairing when you’re not using them. This limits the number of ways someone can potentially access your devices. 
+- Be Cautious with Device Permissions: Some IoT devices request access to features they don’t necessarily need (like your location or microphone). Only grant permissions that are essential to the device’s operation, and regularly review these permissions. 
+- Monitor Device Activity Logs: Many smart home apps allow you to view logs of activity and new devices connected. Check these regularly to make sure only trusted devices and users are accessing your system. 
+- Use a Firewall for Extra Protection: Setting up a Firewalls would add an additional layer of security by monitoring the network traffic. Some routers come with built-in firewalls, or you can enable these features in your router’s settings for added protection.
+- Exercise some level of caution with Smart Assistants: Voice-activated assistants (like Alexa or Google Assistant) can respond to commands even when you don’t mean them to. Consider turning off voice purchases or placing them in less private areas of your home to avoid unintended actions.
+</p>
 
 
 
 
+- <h4> Chapter 6 </h4>
+<h5> E-commerce and Online Accounts </h5>
+<p>
+Easy-to-follow steps to minimize  Cyber Threats while shopping and carrying out online transactions.
+- Use Strong, Unique Passwords: Each shopping site or portal should have a unique and strong password to prevent hackers from accessing multiple accounts if one password or same username is compromised. 
+- Enable Two-Factor Authentication: some shopping platforms offer 2FA, an extra code sent to your phone or email. Providing an added  security layer making it much harder for unauthorized users to gain access to your account, even if your  password has been compromised.
+- Save Payment Details Only When Necessary: Avoid storing your credit card or bank information on shopping sites, get dedicated virtual or utility cards.
+- Monitor Your Statements Regularly: Conduct regular checks on your bank and credit card statements to catch unauthorized charges early. Banks and payment services also offer notifications for each transaction, which can help you monitor and track your spending in real time.  
+- Use Trusted Payment Options: Use secure payment services like PayPal, Apple Pay, or Google Pay, etc. Which keeps  payment details hidden from the merchant. If possible, avoid direct bank transfers or less secure payment methods.
+- Phishing Scams: Be cautious about emails or  sms claiming to be from shopping platforms asking for personal details or payment information. Phishing scams often look legitimate and one way to verify is by going directly to the website rather than clicking on verified links in emails. 
+- “HTTPS” in URLs:  Before entering sensitive information online, ensure that the website URL starts with “https” and not “http.” The “s” is simply indicating that the site is secure and encrypts the data that is sent between you and the website. 
+- Use a Virtual or Utility card: Optionally use a dedicated virtual or utility card for all online transactions. You can limit the amount per-loaded  for spending to just what is needed. 
+- Limit system used for shopping: Don’t use a public shared system (cafe,  library etc) for online transactions but id you must always: 
+- Log out from your shopping accounts when done This helps prevent others from accessing your account.
+- Never set the system to remember your password.
+- Delete cookie and history. 
+- Monitor your Account Activity and Notifications:  Set up  alerts for all accounts if available and review account activity periodically to catch any unusual transactions.
+- Physical  Security: Make sure your phone is physically secure at all times,most security measures can be by-passed given enough time and sensitive data retrieved even if they have been previously deleted.
+<p>
 
 
 
-
-Chapter 7 
-Public Wi-Fi Usage
-
-Practical tips on keeping information safe while  using public Networks and Wi-Fi
-
-Avoid Accessing Sensitive Information:  When connected to public Wi-Fi, avoid logging in to sensitive sites or  into accounts with sensitive information. Banking, insurance accessing your  health records etc. Public networks are usually not secure, making it easier for others to intercept your data. 
-Use a Virtual Private Network: A VPN encrypts your internet connection, this provides an added layer of security by making it difficult for others on the network to see your activities. 
-Turn Off Automatic Connections: Many devices are set to automatically connect when they are near to a Wi-Fi network they had previously connected to. Turn off this feature in your device settings to prevent accidental connections to insecure networks
-Using Secure Protocol: check that you're using “https” on your browser's URL  when connecting to sites while using public WI-FI.  
-Hotspot or Tether: Use your mobile phone hotspot or tether your phone for internet access when you need to access sensitive data or sites. 
-Keep Your Device’s Firewall On: Firewalls act as a barrier between your device and potential threats. Ensure your device’s firewall is enabled, which can help block unauthorized access while on public networks.
-Disable File Sharing and Airdrop: When using public Wi-Fi, disable features like file sharing, Bluetooth, and Airdrop on your device. Hackers  can gain access to your devices through these apps and services, especially on shared networks.
-Log Out After Use: If you log into any accounts on a public computer, make sure to log out completely before you leave. Also, clear the browser history to remove any saved login credentials or personal information.
-Be Aware of Fake Networks: Hackers sometimes set up fake Wi-Fi networks with names similar to legitimate ones, like “Airport Free Wi-Fi.” Verify network names with staff before connecting to avoid accidentally joining a malicious network. 
-Use Two-Factor Authentication (2FA) Where Possible: Enabling 2FA on your accounts adds an extra layer of security, requiring a second verification step if someone tries to access your account on a public network. 
-Limit Browsing to Basic Tasks: Stick to non-sensitive browsing activities when on public Wi-Fi. Avoid tasks that require personal, financial, or login information to minimize the risk if your data is intercepted. 
-
-
-
+- <h4> Chapter 7 </h4>
+<h5> Public Wi-Fi Usage </h5>
+<p>
+We might not always have the luxury of working from the convinience of our homes or offices, knowing how to stay safe while using public WiFi is a must.  
+- Avoid Accessing Sensitive Information:  When connected to public Wi-Fi, avoid logging in to sensitive sites or  into accounts with sensitive information. Banking, insurance accessing your  health records etc. Public networks are usually not secure, making it easier for others to intercept your data. 
+- Use a Virtual Private Network: A VPN encrypts your internet connection, this provides an added layer of security by making it difficult for others on the network to see your activities. 
+- Turn Off Automatic Connections: Many devices are set to automatically connect when they are near to a Wi-Fi network they had previously connected to. Turn off this feature in your device settings to prevent accidental connections to insecure networks
+- Using Secure Protocol: check that you're using “https” on your browser's URL  when connecting to sites while using public WI-FI.  
+- Hotspot or Tether: Use your mobile phone hotspot or tether your phone for internet access when you need to access sensitive data or sites. 
+- Keep Your Device’s Firewall On: Firewalls act as a barrier between your device and potential threats. Ensure your device’s firewall is enabled, which can help block unauthorized access while on public networks.
+- Disable File Sharing and Airdrop: When using public Wi-Fi, disable features like file sharing, Bluetooth, and Airdrop on your device. Hackers  can gain access to your devices through these apps and services, especially on shared networks.
+- Log Out After Use: If you log into any accounts on a public computer, make sure to log out completely before you leave. Also, clear the browser history to remove any saved login credentials or personal information.
+-Be Aware of Fake Networks: Hackers sometimes set up fake Wi-Fi networks with names similar to legitimate ones, like “Airport Free Wi-Fi.” Verify network names with staff before connecting to avoid accidentally joining a malicious network. 
+-Use Two-Factor Authentication (2FA) Where Possible: Enabling 2FA on your accounts adds an extra layer of security, requiring a second verification step if someone tries to access your account on a public network. 
+- Limit Browsing to Basic Tasks: Stick to non-sensitive browsing activities when on public Wi-Fi. Avoid tasks that require personal, financial, or login information to minimize the risk if your data is intercepted. 
+</p>
 
 
 
