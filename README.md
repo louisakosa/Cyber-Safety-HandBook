@@ -99,6 +99,7 @@ The increase in social media adoption has  changed the dynamic for online intera
 
 - <h4> Chapter 4 </h4>
 <h5> Mobile Phones and Portable Devices </h5>
+
 <p>
 These are safety tips to help ensure online and data security while using mobile devices such as Mobile Phone, Tablets etc. 
 - Set Up Strong Lock Screen Security: Use a strong PIN, password, or biometric options like fingerprint or face recognition to secure your device. Avoid easy-to-guess combinations like "1234" or birthdays.
@@ -112,7 +113,7 @@ Download Apps Only from Trusted Sources: Stick to official app stores like the G
 - Regularly Check Battery and Data Usage: Unusual spikes in battery or data usage can indicate hidden apps or malware running in the background. Review your app list and permissions if you notice these signs. 
 - Use Antivirus Software for Mobile: Install a reputable antivirus app to protect your device from malware, phishing, and other security threats. Many antivirus programs also offer secure browsing and app scanning. 
 - Disable Auto-Connect for Networks: Turn off “Auto-Connect” to prevent your device from automatically joining public Wi-Fi networks, which can be risky.
-Log Out of Sensitive Apps When Done: For apps like banking, log out after each session. This reduces the risk of unauthorized access if someone else gets hold of your device. 
+- Log Out of Sensitive Apps When Done: For apps like banking, log out after each session. This reduces the risk of unauthorized access if someone else gets hold of your device. 
 - Delete Unused Apps: Remove apps you no longer use, as they may have security vulnerabilities or permissions you’ve forgotten about.
 </p>
 
