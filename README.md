@@ -60,8 +60,10 @@ Below are pointers  to aid in managing your financial cards securely to avoid fr
 - Report Lost or Stolen Cards Immediately: If you lose your card, report it to your bank right away to block the card from being used. Most banks will make arrangements for speedy replacements.
 </p>
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 - <h4> Chapter 3 </h4>  
 <h5> Social Media Accounts Management </h5>
@@ -90,7 +92,10 @@ The increase in social media adoption has  changed the dynamic for online intera
 - Use a Secure Email Address for Social Accounts: Use an email address for social media that you don’t use for other personal or financial purposes. This adds a layer of separation and makes it easier to detect unusual login attempts or suspicious emails related to social media.
 </p>
 
-
+<br>
+<br>
+<br>
+<br>
 
 - <h4> Chapter 4 </h4>
 <h5> Mobile Phones and Portable Devices </h5>
@@ -111,9 +116,10 @@ Log Out of Sensitive Apps When Done: For apps like banking, log out after each s
 - Delete Unused Apps: Remove apps you no longer use, as they may have security vulnerabilities or permissions you’ve forgotten about.
 </p>
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 - <h4> Chapter 5 </h4>  
 <h5> Smart Home and IOT Devices </h5>
@@ -130,8 +136,10 @@ Safety tip to get the best out of Smart Home and IoT Devices, while staying safe
 - Exercise some level of caution with Smart Assistants: Voice-activated assistants (like Alexa or Google Assistant) can respond to commands even when you don’t mean them to. Consider turning off voice purchases or placing them in less private areas of your home to avoid unintended actions.
 </p>
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 - <h4> Chapter 6 </h4>
 <h5> E-commerce and Online Accounts </h5>
@@ -153,7 +161,10 @@ Easy-to-follow steps to minimize  Cyber Threats while shopping and carrying out 
 - Physical  Security: Make sure your phone is physically secure at all times,most security measures can be by-passed given enough time and sensitive data retrieved even if they have been previously deleted.
 <p>
 
-
+<br>
+<br>
+<br>
+<br>
 
 - <h4> Chapter 7 </h4>
 <h5> Public Wi-Fi Usage </h5>
@@ -172,51 +183,57 @@ We might not always have the luxury of working from the convinience of our homes
 - Limit Browsing to Basic Tasks: Stick to non-sensitive browsing activities when on public Wi-Fi. Avoid tasks that require personal, financial, or login information to minimize the risk if your data is intercepted. 
 </p>
 
+<br>
+<br>
+<br>
+<br>
 
+- <h4> Chapter 8 </h4>
+<h5> Travel and Location Data <h5>
 
-Chapter 8 
-Travel and Location Data  
+Properly manage your travel and location data for effective protection of privacy.
+- Limit Your Location Sharing on Social Media: Don’t post on social media the travel plans in real time, you can share reels and pictures when you back from your trip, this reduces the chances of someone tracking your current location.
+- Turn Off Location Services on Your Apps and  Devices: Many apps track location data in the background. Review which apps need location access and turn it off for apps that don’t. On most devices, you can set location permissions to “Only While Using the App” to keep data private. 
+- Use a Virtual Private Network (VPN) While Traveling: A VPN can help mask your IP address, making it harder for websites and third parties to track your location while you browse. This is especially helpful when using public Wi-Fi while traveling. 
+- Disable Geo-tagging on Photos: Many smartphones automatically tag photos with GPS coordinates, revealing the location where each picture was taken. Disable geo-tagging in your camera settings to keep this information private. 
+- Avoid Using Public Wi-Fi with Location-Based Apps: When accessing location-based services like maps or ride-sharing apps, avoid public Wi-Fi, which can expose your location data to potential hackers. Use mobile data or a secure Wi-Fi network instead. 
+- Limit Permissions for Smart Devices with GPS: Devices like fitness trackers or smartwatches often track your location. Review and limit location-sharing permissions in these apps, especially when you’re not actively using the location feature. 
+- Be Cautious with Travel Apps and Bookings: Only use reputable travel apps and sites for bookings and check their privacy policies to see how they handle your location data. Avoid apps that ask for unnecessary location access permissions. 
+- Regularly Review Device Location History: Many devices save a history of your locations. Periodically review this data and delete any saved location history if you don’t want it stored. On Google, for example, you can manage or delete your Location History from your Google account settings. 
+- Use Incognito Mode for Travel Searches: When researching travel options, use incognito mode or a privacy-focused browser. This prevents search engines from saving your travel-related search data and showing location-based ads. 
+- Turn Off Bluetooth and Wi-Fi When Not in Use: Some apps and devices can track location through Bluetooth and Wi-Fi even if you’re not actively using them. Disabling these features when you don’t need them helps maintain privacy.
 
-Here’s how to safely manage your travel and location data to protect your privacy.
-Limit Your Location Sharing on Social Media: Don’t post on social media the travel plans in real time, you can share reels and pictures when you back from your trip, this reduces the chances of someone tracking your current location.
-Turn Off Location Services on Your Apps and  Devices: Many apps track location data in the background. Review which apps need location access and turn it off for apps that don’t. On most devices, you can set location permissions to “Only While Using the App” to keep data private. 
-Use a Virtual Private Network (VPN) While Traveling: A VPN can help mask your IP address, making it harder for websites and third parties to track your location while you browse. This is especially helpful when using public Wi-Fi while traveling. 
-Disable Geo-tagging on Photos: Many smartphones automatically tag photos with GPS coordinates, revealing the location where each picture was taken. Disable geo-tagging in your camera settings to keep this information private. 
-Avoid Using Public Wi-Fi with Location-Based Apps: When accessing location-based services like maps or ride-sharing apps, avoid public Wi-Fi, which can expose your location data to potential hackers. Use mobile data or a secure Wi-Fi network instead. 
-Limit Permissions for Smart Devices with GPS: Devices like fitness trackers or smartwatches often track your location. Review and limit location-sharing permissions in these apps, especially when you’re not actively using the location feature. 
-Be Cautious with Travel Apps and Bookings: Only use reputable travel apps and sites for bookings and check their privacy policies to see how they handle your location data. Avoid apps that ask for unnecessary location access permissions. 
-Regularly Review Device Location History: Many devices save a history of your locations. Periodically review this data and delete any saved location history if you don’t want it stored. On Google, for example, you can manage or delete your Location History from your Google account settings. 
-Use Incognito Mode for Travel Searches: When researching travel options, use incognito mode or a privacy-focused browser. This prevents search engines from saving your travel-related search data and showing location-based ads. 
-Turn Off Bluetooth and Wi-Fi When Not in Use: Some apps and devices can track location through Bluetooth and Wi-Fi even if you’re not actively using them. Disabling these features when you don’t need them helps maintain privacy.
+<br>
+<br>
+<br>
+<br>
 
+- <h4> Chapter 9 </h4>  
+<h5> Computer Safety </h5>
+Personal Security and safety tips for securing PC and information safety.
+- Use a Unique Strong Password: Ensure that each of your accounts has a unique and complex password. Passwords should be Unique across all accounts, long (at least 12 characters) and use a combination of letters, numbers, and special characters. Avoid Using common words or easily guessed details, like birthdays. Even most preferably use a password manager to securely generate and store complex passwords, so you don’t have to remember the password to all accounts.
+- Enable Two-Factor Authentication (2FA): Activate 2FA on all accounts that support it. With 2FA, even if someone gets your password, they would also need access to the second form of verification (like a Token Device) to log in. 
+- Keep Operating System and Software Updated: Regularly updating your OS and all other applications to ensure that any security flaw or vulnerabilities are patched. Most updates include security enhancements designed to protect against the latest threats. 
+- Use a Reputable Antivirus and Anti-Malware Program: Antivirus software is your first line of defense against viruses and malware. Install reputable antivirus software and set it to run scans regularly. Many antivirus programs include anti-malware features that can detect ransomware, spyware, and other harmful software.
+- Be Cautious with Emails and Attachments: Email is one of the primary channels for phishing attacks. Avoid clicking on links or downloading attachments from unfamiliar or suspicious emails. Verify the sender’s email address carefully and look out for slight spelling errors or unusual language, which can be signs of phishing attempts.
+- Avoid Downloading from untrusted Sources: Only download software and files from reputable sites. Avoid using unofficial websites or third-party download sites, as they may contain malware. Stick to official app stores or websites for applications, and double-check the URL before downloading.
+- Use Secure Internet Connections: Public Wi-Fi networks can expose your computer to hackers. If you must use public Wi-Fi, avoid accessing sensitive accounts, or use a Virtual Private Network (VPN) to encrypt your internet connection. At home, ensure your Wi-Fi network is secure with a strong password and consider using WPA3 encryption. 
+- Physical  Security: Make sure your phone is physically secure at all times,most security measures can be by-passed given enough time and sensitive data retrieved even if they have been previously deleted.
+- Enable a Firewall: Firewalls help block unauthorized access to your computer and network. Most operating systems include a built-in firewall; ensure it’s enabled and configured correctly. Consider using both hardware (router-based) and software (OS-based) firewalls for added security.
+- Use a Pop-up Blocker: Pop-ups can be a gateway for malware or phishing sites. Use a pop-up blocker within your browser to prevent these unwanted windows from appearing. Some pop-up blockers also help protect against “drive-by downloads” where malware downloads automatically when a site is visited. 
+- Be Mindful of Social Media Privacy: Avoid sharing sensitive information on social media, like your location, personal details, or travel plans, as cyber criminals may use this information to target you. Check your privacy settings on social media accounts and restrict who can view your posts and information. 
+- Limit App and Browser Permissions: Review and limit permissions granted to apps and browser extensions. Some may request unnecessary access to your camera, microphone, or files, which can lead to privacy risks. Regularly review permissions in your device settings and remove apps or extensions that you no longer use. 
+- Log Out After Use: If you’re using a shared or public computer, always log out of your accounts when done. Even on personal devices, logging out of critical accounts after use can prevent unauthorized access if the device is stolen. 
+- Secure Your Backups: Regularly backup your important files to an external hard drive or a secure cloud service. Backups protect against data loss from malware or system failures. Use encryption for your backups, especially if storing sensitive data, to protect it from unauthorized access. 
+- Check Account Activity Regularly: Periodically review account activity for unusual logins or transactions. Many platforms offer account activity logs to help you monitor this. Set up account alerts where possible, so you’ll be notified of any suspicious activity right away. 
+- Be Careful with Removable Media: Avoid inserting unknown USB drives or other removable media into your computer, as they can contain malware. If using your own USB drive between devices, scan it for viruses regularly. 
+- Practice Good Password Hygiene: Avoid saving passwords in plain text files or browsers. Instead, use encrypted password storage options, like password managers, for added security. 
+- Disable Remote Access When Not in Use: Remote access tools can be exploited by hackers. Disable remote desktop access if it’s not necessary, or use it only with strong security settings and monitoring. 
+- Enable Security Features on Accounts: Many online services offer security features like account recovery questions, notification of unrecognized logins, and suspicious activity alerts. Enable these options to keep a close eye on your accounts. 
+- Regularly Clear Browser History and Cache: Clearing your browser’s cache, history, and cookies periodically helps protect your data and reduces the risk of tracking or leaking sensitive information. Some browsers allow you to enable “Do Not Track” requests, adding another layer of privacy.  
+- Secure Your Webcam and Microphone: Hackers can exploit webcams and microphones to invade privacy. Cover your webcam when not in use, and disable or restrict access to your microphone for apps that don’t need it. 
+- Use Encryption for Sensitive Files: If you store sensitive data on your computer, consider encrypting these files. Encryption software makes files unreadable without the decryption key, adding a layer of security if your computer is compromised. 
+</p>
 
+<h5> Stay Safe Guys </h5>
 
-
-
-
-
-Chapter 9  
-Computer Safety
-Here’s a guide to keeping your personal computing Devices safe from cyber threats.
-Use a Unique Strong Password: Ensure that each of your accounts has a unique and complex password. Passwords should be Unique across all accounts, long (at least 12 characters) and use a combination of letters, numbers, and special characters. Avoid Using common words or easily guessed details, like birthdays. Even most preferably use a password manager to securely generate and store complex passwords, so you don’t have to remember the password to all accounts.
-Enable Two-Factor Authentication (2FA): Activate 2FA on all accounts that support it. With 2FA, even if someone gets your password, they would also need access to the second form of verification (like a Token Device) to log in. 
-Keep Operating System and Software Updated: Regularly updating your OS and all other applications to ensure that any security flaw or vulnerabilities are patched. Most updates include security enhancements designed to protect against the latest threats. 
-Use a Reputable Antivirus and Anti-Malware Program: Antivirus software is your first line of defense against viruses and malware. Install reputable antivirus software and set it to run scans regularly. Many antivirus programs include anti-malware features that can detect ransomware, spyware, and other harmful software.
-Be Cautious with Emails and Attachments: Email is one of the primary channels for phishing attacks. Avoid clicking on links or downloading attachments from unfamiliar or suspicious emails. Verify the sender’s email address carefully and look out for slight spelling errors or unusual language, which can be signs of phishing attempts.
-Avoid Downloading from untrusted Sources: Only download software and files from reputable sites. Avoid using unofficial websites or third-party download sites, as they may contain malware. Stick to official app stores or websites for applications, and double-check the URL before downloading.
-Use Secure Internet Connections: Public Wi-Fi networks can expose your computer to hackers. If you must use public Wi-Fi, avoid accessing sensitive accounts, or use a Virtual Private Network (VPN) to encrypt your internet connection. At home, ensure your Wi-Fi network is secure with a strong password and consider using WPA3 encryption. 
-Physical  Security: Make sure your phone is physically secure at all times,most security measures can be by-passed given enough time and sensitive data retrieved even if they have been previously deleted.
-Enable a Firewall: Firewalls help block unauthorized access to your computer and network. Most operating systems include a built-in firewall; ensure it’s enabled and configured correctly. Consider using both hardware (router-based) and software (OS-based) firewalls for added security.
-Use a Pop-up Blocker: Pop-ups can be a gateway for malware or phishing sites. Use a pop-up blocker within your browser to prevent these unwanted windows from appearing. Some pop-up blockers also help protect against “drive-by downloads” where malware downloads automatically when a site is visited. 
-Be Mindful of Social Media Privacy: Avoid sharing sensitive information on social media, like your location, personal details, or travel plans, as cyber criminals may use this information to target you. Check your privacy settings on social media accounts and restrict who can view your posts and information. 
-Limit App and Browser Permissions: Review and limit permissions granted to apps and browser extensions. Some may request unnecessary access to your camera, microphone, or files, which can lead to privacy risks. Regularly review permissions in your device settings and remove apps or extensions that you no longer use. 
-Log Out After Use: If you’re using a shared or public computer, always log out of your accounts when done. Even on personal devices, logging out of critical accounts after use can prevent unauthorized access if the device is stolen. 
-Secure Your Backups: Regularly backup your important files to an external hard drive or a secure cloud service. Backups protect against data loss from malware or system failures. Use encryption for your backups, especially if storing sensitive data, to protect it from unauthorized access. 
-Check Account Activity Regularly: Periodically review account activity for unusual logins or transactions. Many platforms offer account activity logs to help you monitor this. Set up account alerts where possible, so you’ll be notified of any suspicious activity right away. 
-Be Careful with Removable Media: Avoid inserting unknown USB drives or other removable media into your computer, as they can contain malware. If using your own USB drive between devices, scan it for viruses regularly. 
-Practice Good Password Hygiene: Avoid saving passwords in plain text files or browsers. Instead, use encrypted password storage options, like password managers, for added security. 
-Disable Remote Access When Not in Use: Remote access tools can be exploited by hackers. Disable remote desktop access if it’s not necessary, or use it only with strong security settings and monitoring. 
-Enable Security Features on Accounts: Many online services offer security features like account recovery questions, notification of unrecognized logins, and suspicious activity alerts. Enable these options to keep a close eye on your accounts. 
-Regularly Clear Browser History and Cache: Clearing your browser’s cache, history, and cookies periodically helps protect your data and reduces the risk of tracking or leaking sensitive information. Some browsers allow you to enable “Do Not Track” requests, adding another layer of privacy.  
-Secure Your Webcam and Microphone: Hackers can exploit webcams and microphones to invade privacy. Cover your webcam when not in use, and disable or restrict access to your microphone for apps that don’t need it. 
-Use Encryption for Sensitive Files: If you store sensitive data on your computer, consider encrypting these files. Encryption software makes files unreadable without the decryption key, adding a layer of security if your computer is compromised. 
