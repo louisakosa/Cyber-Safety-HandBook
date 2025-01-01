@@ -160,7 +160,7 @@ Easy-to-follow steps to minimize  Cyber Threats while shopping and carrying out 
 - Limit system used for shopping: Don’t use a public shared system (cafe,  library etc) for online transactions but id you must always: 
 - Log out from your shopping accounts when done This helps prevent others from accessing your account.
 - Never set the system to remember your password.
-- Delete cookie and history. 
+- Delete cookie and history especially if more than one user on that system. 
 - Monitor your Account Activity and Notifications:  Set up  alerts for all accounts if available and review account activity periodically to catch any unusual transactions.
 - Physical  Security: Make sure your phone is physically secure at all times,most security measures can be by-passed given enough time and sensitive data retrieved even if they have been previously deleted.
 <p>
