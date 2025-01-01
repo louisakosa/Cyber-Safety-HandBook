@@ -6,14 +6,14 @@
 <br>
 <h3>Table of Content</h3>
 
-- Financial & Banking Information
-- Social Media Accounts
-- Mobile Phone & Portable Devices
-- Smart Home and IOT Devices
-- E-commerce and Online Accounts  
-- Public Wi-Fi Usage
-- Travel and Location Data  
-- Computer Safety
+- Chapter 1 - Financial & Banking Information
+- Chapter 2 - Social Media Accounts
+- Chapter 3 - Mobile Phone & Portable Devices
+- Chapter 4 - Smart Home and IOT Devices
+- Chapter 5 - E-commerce and Online Accounts  
+- Chapter 6 - Public Wi-Fi Usage
+- Chapter 7 - Travel and Location Data  
+- Chapter 8 - Computer Safety
 
 <br>
 <br>
